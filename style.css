@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  font-size: 40px;
+  text-shadow: 3px 3px 3px white;
+  font-family: 'monospace', cursive;
+}
+h2 {
+  color: darkgreen;
+  font-size: 30px;
+  font-family: 'monospace', cursive;
+
+}
+h3 {
+  color: darkgreen;
+  font-size: 30px;
+  font-family: 'monospace', cursive;
+}
+h4 {
+  color: darkgreen;
+  font-size: 30px;
+  font-family: 'monospace', cursive;
+}
+p {
+  color: orangered;
+  font-size: 18px;
+  font-family: 'monospace', cursive;
+}
